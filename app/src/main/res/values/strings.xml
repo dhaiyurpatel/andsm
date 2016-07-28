@@ -20,11 +20,11 @@
     <string name="title_friends">Friends</string>
     <string name="title_home">Home</string>
 
-    <!-- activity_splash -->
+    <!-- activity_splash_screen -->
     <string name="splash_title">SONI SAMAJ</string>
 
 
-    <!-- activity_welcom -->
+    <!-- activity_welcome_screen -->
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
@@ -43,6 +43,10 @@
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
+
+
+    <!-- activity_login_screen -->
+    <string name="help"><u>Help</u></string>
 
 
 </resources>
